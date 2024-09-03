@@ -1,0 +1,5 @@
+scrapy
+pypiwin32
+scrapy-fake-useragent
+flask
+flask_cors
